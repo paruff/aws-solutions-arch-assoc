@@ -1,0 +1,1 @@
+# aws-solutions-arch-assoc
