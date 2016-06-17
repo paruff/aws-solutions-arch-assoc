@@ -80,7 +80,7 @@
       },
       "id": 38
     },
-    "-1": {
+    "14": {
       "title": "Troubleshooting",
       "ideas": {
         "1": {
@@ -88,7 +88,15 @@
           "id": 50
         }
       },
-      "id": 49
+      "id": 49,
+      "attr": {
+        "position": [
+          257.5,
+          358,
+          1
+        ],
+        "style": {}
+      }
     },
     "-0.5": {
       "title": "Data Security",
