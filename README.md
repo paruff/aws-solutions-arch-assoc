@@ -3,7 +3,7 @@ A tool to support the and remembering the information needed to pass the AWS Sol
 
 Use (mindmup.com)[http://www.mindmup.com] to view and edit the mind map. 
 
-[AWS SAA](https://drive.google.com/drive/folders/0B8zF5nw7Jy6ldVQ2VUt5MWpDa1k?usp=sharing)
+[AWS SAA cert mind map](https://drive.google.com/open?id=0B8zF5nw7Jy6lbloyamZEcTFUcXc)
 
 ## To do
 * break up the map into a map per domains
